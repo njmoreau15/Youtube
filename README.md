@@ -1,6 +1,6 @@
 # Youtube
 
-First protype for a simple Youtube Downloader with a GUI using Tkinter.
+First prototype for a simple Youtube Downloader with a GUI using Tkinter.
 
 To use, must select save destination with browse button. The, input the url to the youtube video and press "enter".
 
